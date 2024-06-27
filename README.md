@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Podcaest</title>
+    <title>Podcast</title>
     <style>
         body {background-color: #add8e6; /* Fondo de pantalla azul */font-family: Arial, sans-serif;}
         h1 {text-align: center;background-color: #fffacd; /* Fondo del título amarillo pastel */font-style: italic;text-decoration: underline;
